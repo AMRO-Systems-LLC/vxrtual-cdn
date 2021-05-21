@@ -1,2 +1,2 @@
 # vxrtual-cdn
-Acts as a CDN for AMRO's Mozilla Hubs custom client.
+Acts as a CDN for VXRTUAL custom client.
